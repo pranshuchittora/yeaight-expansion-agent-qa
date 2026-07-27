@@ -1,6 +1,6 @@
 {
   "name": "data-engineering",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "Analytics engineering, dbt patterns, BigQuery optimization, data quality, and pipeline workflows.",
   "author": {
     "name": "Javier Rivero Iglesias",

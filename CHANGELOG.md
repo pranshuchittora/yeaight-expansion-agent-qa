@@ -14,6 +14,18 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
+## [0.6.3] — 2026-07-27
+
+## What's Changed
+* #SX-06 - install/setup exposure by @yeaight7 in https://github.com/yeaight7/agent-powerups/pull/8
+* #SX-07 - installed guidance drift by @yeaight7 in https://github.com/yeaight7/agent-powerups/pull/9
+* Add asset tier metadata and expose it in catalog commands by @yeaight7 in https://github.com/yeaight7/agent-powerups/pull/11
+
+
+**Full Changelog**: https://github.com/yeaight7/agent-powerups/compare/v0.6.2...v0.6.3
+
+---
+
 ## [0.6.2] — 2026-06-08
 
 ### Added — Validation and discovery

@@ -1,6 +1,6 @@
 {
   "name": "spec-driven-development",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "Requirements clarification, phase planning, workstreams, and wave-based execution for reviewable delivery.",
   "license": "Apache-2.0",
   "repository": "https://github.com/yeaight7/agent-powerups"
